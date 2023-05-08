@@ -1,0 +1,7 @@
+[console_scripts]
+camera_img = mobile_bot.camera_sub:main
+detector = mobile_bot.detect:main
+lidar_scan = mobile_bot.lidar_vision:main
+person_follower = mobile_bot.person_follow:main
+velocity = mobile_bot.motor_pwm:main
+

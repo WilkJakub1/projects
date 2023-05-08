@@ -1,0 +1,57 @@
+[3.663s] Invoking command in '/home/ubuntu/ros2_git_ws/mobile_bot_vision/src/mobile_bot': PYTHONPATH=/home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/prefix_override:/home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mobile_bot build --build-base /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build install --record /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/install.log --install-scripts $base/lib/mobile_bot --single-version-externally-managed
+[4.402s] running egg_info
+[4.404s] writing ../../build/mobile_bot/mobile_bot.egg-info/PKG-INFO
+[4.405s] writing dependency_links to ../../build/mobile_bot/mobile_bot.egg-info/dependency_links.txt
+[4.406s] writing entry points to ../../build/mobile_bot/mobile_bot.egg-info/entry_points.txt
+[4.406s] writing requirements to ../../build/mobile_bot/mobile_bot.egg-info/requires.txt
+[4.407s] writing top-level names to ../../build/mobile_bot/mobile_bot.egg-info/top_level.txt
+[4.555s] reading manifest file '../../build/mobile_bot/mobile_bot.egg-info/SOURCES.txt'
+[4.560s] writing manifest file '../../build/mobile_bot/mobile_bot.egg-info/SOURCES.txt'
+[4.561s] running build
+[4.561s] running build_py
+[4.562s] copying mobile_bot/camera_sub.py -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build/lib/mobile_bot
+[4.565s] copying mobile_bot/person_follow.py -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build/lib/mobile_bot
+[4.566s] copying mobile_bot/tflite_test.py -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build/lib/mobile_bot
+[4.568s] copying mobile_bot/opencv_test.py -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build/lib/mobile_bot
+[4.569s] copying mobile_bot/detect.py -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build/lib/mobile_bot
+[4.570s] copying mobile_bot/myutils.py -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build/lib/mobile_bot
+[4.571s] copying mobile_bot/utils.py -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build/lib/mobile_bot
+[4.573s] copying mobile_bot/motor_pwm.py -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build/lib/mobile_bot
+[4.574s] copying mobile_bot/__init__.py -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build/lib/mobile_bot
+[4.575s] copying mobile_bot/lidar_vision.py -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build/lib/mobile_bot
+[4.577s] running install
+[4.581s] running install_lib
+[4.585s] copying /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build/lib/mobile_bot/camera_sub.py -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot
+[4.586s] copying /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build/lib/mobile_bot/person_follow.py -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot
+[4.587s] copying /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build/lib/mobile_bot/tflite_test.py -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot
+[4.588s] copying /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build/lib/mobile_bot/opencv_test.py -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot
+[4.589s] copying /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build/lib/mobile_bot/detect.py -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot
+[4.590s] copying /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build/lib/mobile_bot/myutils.py -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot
+[4.590s] copying /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build/lib/mobile_bot/utils.py -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot
+[4.591s] copying /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build/lib/mobile_bot/motor_pwm.py -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot
+[4.592s] copying /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build/lib/mobile_bot/__init__.py -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot
+[4.593s] copying /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build/lib/mobile_bot/lidar_vision.py -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot
+[4.595s] byte-compiling /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot/camera_sub.py to camera_sub.cpython-38.pyc
+[4.600s] byte-compiling /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot/person_follow.py to person_follow.cpython-38.pyc
+[4.605s] byte-compiling /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot/tflite_test.py to tflite_test.cpython-38.pyc
+[4.607s] byte-compiling /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot/opencv_test.py to opencv_test.cpython-38.pyc
+[4.609s] byte-compiling /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot/detect.py to detect.cpython-38.pyc
+[4.613s] byte-compiling /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot/myutils.py to myutils.cpython-38.pyc
+[4.615s] byte-compiling /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot/utils.py to utils.cpython-38.pyc
+[4.617s] byte-compiling /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot/motor_pwm.py to motor_pwm.cpython-38.pyc
+[4.619s] byte-compiling /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot/__init__.py to __init__.cpython-38.pyc
+[4.620s] byte-compiling /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot/lidar_vision.py to lidar_vision.cpython-38.pyc
+[4.622s] running install_data
+[4.624s] copying resource/mobile_bot -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/share/ament_index/resource_index/packages
+[4.625s] copying package.xml -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/share/mobile_bot
+[4.626s] running install_egg_info
+[4.631s] removing '/home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot-0.0.0-py3.8.egg-info' (and everything under it)
+[4.633s] Copying ../../build/mobile_bot/mobile_bot.egg-info to /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot-0.0.0-py3.8.egg-info
+[4.638s] running install_scripts
+[4.700s] Installing camera_img script to /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/mobile_bot
+[4.701s] Installing detector script to /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/mobile_bot
+[4.701s] Installing lidar_scan script to /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/mobile_bot
+[4.702s] Installing person_follower script to /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/mobile_bot
+[4.703s] Installing velocity script to /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/mobile_bot
+[4.705s] writing list of installed files to '/home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/install.log'
+[4.801s] Invoked command in '/home/ubuntu/ros2_git_ws/mobile_bot_vision/src/mobile_bot' returned '0': PYTHONPATH=/home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/prefix_override:/home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mobile_bot build --build-base /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build install --record /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/install.log --install-scripts $base/lib/mobile_bot --single-version-externally-managed

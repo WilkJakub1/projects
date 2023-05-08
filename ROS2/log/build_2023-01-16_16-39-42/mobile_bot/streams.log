@@ -1,0 +1,26 @@
+[3.033s] Invoking command in '/home/jakub/ros2_ws/src/mobile_bot': PYTHONPATH=/home/jakub/ros2_ws/build/mobile_bot/prefix_override:/home/jakub/ros2_ws/install/mobile_bot/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mobile_bot build --build-base /home/jakub/ros2_ws/build/mobile_bot/build install --record /home/jakub/ros2_ws/build/mobile_bot/install.log --install-scripts $base/lib/mobile_bot --single-version-externally-managed
+[3.991s] running egg_info
+[3.996s] writing ../../build/mobile_bot/mobile_bot.egg-info/PKG-INFO
+[3.999s] writing dependency_links to ../../build/mobile_bot/mobile_bot.egg-info/dependency_links.txt
+[4.001s] writing entry points to ../../build/mobile_bot/mobile_bot.egg-info/entry_points.txt
+[4.002s] writing requirements to ../../build/mobile_bot/mobile_bot.egg-info/requires.txt
+[4.002s] writing top-level names to ../../build/mobile_bot/mobile_bot.egg-info/top_level.txt
+[4.136s] reading manifest file '../../build/mobile_bot/mobile_bot.egg-info/SOURCES.txt'
+[4.141s] writing manifest file '../../build/mobile_bot/mobile_bot.egg-info/SOURCES.txt'
+[4.141s] running build
+[4.141s] running build_py
+[4.144s] running install
+[4.148s] running install_lib
+[4.156s] copying /home/jakub/ros2_ws/build/mobile_bot/build/lib/mobile_bot/utils.py -> /home/jakub/ros2_ws/install/mobile_bot/lib/python3.8/site-packages/mobile_bot
+[4.164s] running install_data
+[4.165s] running install_egg_info
+[4.172s] removing '/home/jakub/ros2_ws/install/mobile_bot/lib/python3.8/site-packages/mobile_bot-0.0.0-py3.8.egg-info' (and everything under it)
+[4.173s] Copying ../../build/mobile_bot/mobile_bot.egg-info to /home/jakub/ros2_ws/install/mobile_bot/lib/python3.8/site-packages/mobile_bot-0.0.0-py3.8.egg-info
+[4.174s] running install_scripts
+[4.266s] Installing camera_img script to /home/jakub/ros2_ws/install/mobile_bot/lib/mobile_bot
+[4.268s] Installing detector script to /home/jakub/ros2_ws/install/mobile_bot/lib/mobile_bot
+[4.270s] Installing lidar_scan script to /home/jakub/ros2_ws/install/mobile_bot/lib/mobile_bot
+[4.274s] Installing person_follower script to /home/jakub/ros2_ws/install/mobile_bot/lib/mobile_bot
+[4.276s] Installing velocity script to /home/jakub/ros2_ws/install/mobile_bot/lib/mobile_bot
+[4.279s] writing list of installed files to '/home/jakub/ros2_ws/build/mobile_bot/install.log'
+[4.470s] Invoked command in '/home/jakub/ros2_ws/src/mobile_bot' returned '0': PYTHONPATH=/home/jakub/ros2_ws/build/mobile_bot/prefix_override:/home/jakub/ros2_ws/install/mobile_bot/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mobile_bot build --build-base /home/jakub/ros2_ws/build/mobile_bot/build install --record /home/jakub/ros2_ws/build/mobile_bot/install.log --install-scripts $base/lib/mobile_bot --single-version-externally-managed

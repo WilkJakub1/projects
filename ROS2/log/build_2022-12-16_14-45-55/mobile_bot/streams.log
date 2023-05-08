@@ -1,0 +1,26 @@
+[4.515s] Invoking command in '/home/jakub/ros2_ws/src/mobile_bot': PYTHONPATH=/home/jakub/ros2_ws/build/mobile_bot/prefix_override:/home/jakub/ros2_ws/install/mobile_bot/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mobile_bot build --build-base /home/jakub/ros2_ws/build/mobile_bot/build install --record /home/jakub/ros2_ws/build/mobile_bot/install.log --install-scripts $base/lib/mobile_bot --single-version-externally-managed
+[6.010s] running egg_info
+[6.013s] writing ../../build/mobile_bot/mobile_bot.egg-info/PKG-INFO
+[6.016s] writing dependency_links to ../../build/mobile_bot/mobile_bot.egg-info/dependency_links.txt
+[6.018s] writing entry points to ../../build/mobile_bot/mobile_bot.egg-info/entry_points.txt
+[6.019s] writing requirements to ../../build/mobile_bot/mobile_bot.egg-info/requires.txt
+[6.020s] writing top-level names to ../../build/mobile_bot/mobile_bot.egg-info/top_level.txt
+[6.228s] reading manifest file '../../build/mobile_bot/mobile_bot.egg-info/SOURCES.txt'
+[6.236s] writing manifest file '../../build/mobile_bot/mobile_bot.egg-info/SOURCES.txt'
+[6.237s] running build
+[6.237s] running build_py
+[6.238s] copying mobile_bot/lidar_vision.py -> /home/jakub/ros2_ws/build/mobile_bot/build/lib/mobile_bot
+[6.239s] running install
+[6.243s] running install_lib
+[6.253s] copying /home/jakub/ros2_ws/build/mobile_bot/build/lib/mobile_bot/lidar_vision.py -> /home/jakub/ros2_ws/install/mobile_bot/lib/python3.8/site-packages/mobile_bot
+[6.257s] byte-compiling /home/jakub/ros2_ws/install/mobile_bot/lib/python3.8/site-packages/mobile_bot/lidar_vision.py to lidar_vision.cpython-38.pyc
+[6.266s] running install_data
+[6.270s] running install_egg_info
+[6.280s] removing '/home/jakub/ros2_ws/install/mobile_bot/lib/python3.8/site-packages/mobile_bot-0.0.0-py3.8.egg-info' (and everything under it)
+[6.282s] Copying ../../build/mobile_bot/mobile_bot.egg-info to /home/jakub/ros2_ws/install/mobile_bot/lib/python3.8/site-packages/mobile_bot-0.0.0-py3.8.egg-info
+[6.287s] running install_scripts
+[6.403s] Installing camera_img script to /home/jakub/ros2_ws/install/mobile_bot/lib/mobile_bot
+[6.403s] Installing lidar_scan script to /home/jakub/ros2_ws/install/mobile_bot/lib/mobile_bot
+[6.403s] Installing velocity script to /home/jakub/ros2_ws/install/mobile_bot/lib/mobile_bot
+[6.406s] writing list of installed files to '/home/jakub/ros2_ws/build/mobile_bot/install.log'
+[6.585s] Invoked command in '/home/jakub/ros2_ws/src/mobile_bot' returned '0': PYTHONPATH=/home/jakub/ros2_ws/build/mobile_bot/prefix_override:/home/jakub/ros2_ws/install/mobile_bot/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mobile_bot build --build-base /home/jakub/ros2_ws/build/mobile_bot/build install --record /home/jakub/ros2_ws/build/mobile_bot/install.log --install-scripts $base/lib/mobile_bot --single-version-externally-managed

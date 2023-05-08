@@ -1,0 +1,1 @@
+This project is focused on creating mobile robot being able to detect and follow human. It is based on ROS 2 and Raspberry Pi 4B. Simulation in Gazebo and line follower program are under development.

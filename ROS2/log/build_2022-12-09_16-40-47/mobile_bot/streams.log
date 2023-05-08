@@ -1,0 +1,21 @@
+[0.696s] Invoking command in '/home/jakub/ros2_ws/src/mobile_bot': PYTHONPATH=/home/jakub/ros2_ws/build/mobile_bot/prefix_override:/home/jakub/ros2_ws/install/mobile_bot/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mobile_bot build --build-base /home/jakub/ros2_ws/build/mobile_bot/build install --record /home/jakub/ros2_ws/build/mobile_bot/install.log --install-scripts $base/lib/mobile_bot --single-version-externally-managed
+[0.926s] running egg_info
+[0.926s] writing ../../build/mobile_bot/mobile_bot.egg-info/PKG-INFO
+[0.927s] writing dependency_links to ../../build/mobile_bot/mobile_bot.egg-info/dependency_links.txt
+[0.927s] writing entry points to ../../build/mobile_bot/mobile_bot.egg-info/entry_points.txt
+[0.928s] writing requirements to ../../build/mobile_bot/mobile_bot.egg-info/requires.txt
+[0.928s] writing top-level names to ../../build/mobile_bot/mobile_bot.egg-info/top_level.txt
+[0.968s] reading manifest file '../../build/mobile_bot/mobile_bot.egg-info/SOURCES.txt'
+[0.969s] writing manifest file '../../build/mobile_bot/mobile_bot.egg-info/SOURCES.txt'
+[0.969s] running build
+[0.969s] running build_py
+[0.970s] running install
+[0.971s] running install_lib
+[0.972s] running install_data
+[0.973s] running install_egg_info
+[0.974s] removing '/home/jakub/ros2_ws/install/mobile_bot/lib/python3.8/site-packages/mobile_bot-0.0.0-py3.8.egg-info' (and everything under it)
+[0.975s] Copying ../../build/mobile_bot/mobile_bot.egg-info to /home/jakub/ros2_ws/install/mobile_bot/lib/python3.8/site-packages/mobile_bot-0.0.0-py3.8.egg-info
+[0.976s] running install_scripts
+[0.994s] Installing velocity script to /home/jakub/ros2_ws/install/mobile_bot/lib/mobile_bot
+[0.994s] writing list of installed files to '/home/jakub/ros2_ws/build/mobile_bot/install.log'
+[1.015s] Invoked command in '/home/jakub/ros2_ws/src/mobile_bot' returned '0': PYTHONPATH=/home/jakub/ros2_ws/build/mobile_bot/prefix_override:/home/jakub/ros2_ws/install/mobile_bot/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mobile_bot build --build-base /home/jakub/ros2_ws/build/mobile_bot/build install --record /home/jakub/ros2_ws/build/mobile_bot/install.log --install-scripts $base/lib/mobile_bot --single-version-externally-managed

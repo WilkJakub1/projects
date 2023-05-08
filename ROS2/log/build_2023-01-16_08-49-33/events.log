@@ -1,0 +1,134 @@
+[0.000000] (-) TimerEvent: {}
+[0.001752] (mobile_bot) JobQueued: {'identifier': 'mobile_bot', 'dependencies': OrderedDict()}
+[0.002872] (mobile_bot) JobStarted: {'identifier': 'mobile_bot'}
+[0.097246] (-) TimerEvent: {}
+[0.199158] (-) TimerEvent: {}
+[0.302738] (-) TimerEvent: {}
+[0.403424] (-) TimerEvent: {}
+[0.504756] (-) TimerEvent: {}
+[0.606318] (-) TimerEvent: {}
+[0.706771] (-) TimerEvent: {}
+[0.807689] (-) TimerEvent: {}
+[0.909180] (-) TimerEvent: {}
+[1.011408] (-) TimerEvent: {}
+[1.112471] (-) TimerEvent: {}
+[1.214588] (-) TimerEvent: {}
+[1.316410] (-) TimerEvent: {}
+[1.417113] (-) TimerEvent: {}
+[1.517904] (-) TimerEvent: {}
+[1.618423] (-) TimerEvent: {}
+[1.718970] (-) TimerEvent: {}
+[1.819949] (-) TimerEvent: {}
+[1.920715] (-) TimerEvent: {}
+[2.021275] (-) TimerEvent: {}
+[2.122049] (-) TimerEvent: {}
+[2.222919] (-) TimerEvent: {}
+[2.326167] (-) TimerEvent: {}
+[2.437064] (-) TimerEvent: {}
+[2.538883] (-) TimerEvent: {}
+[2.640142] (-) TimerEvent: {}
+[2.740726] (-) TimerEvent: {}
+[2.841825] (-) TimerEvent: {}
+[2.943150] (-) TimerEvent: {}
+[3.043641] (-) TimerEvent: {}
+[3.144686] (-) TimerEvent: {}
+[3.245723] (-) TimerEvent: {}
+[3.346620] (-) TimerEvent: {}
+[3.448568] (-) TimerEvent: {}
+[3.550244] (-) TimerEvent: {}
+[3.651146] (-) TimerEvent: {}
+[3.754557] (-) TimerEvent: {}
+[3.856734] (-) TimerEvent: {}
+[3.957770] (-) TimerEvent: {}
+[4.059826] (-) TimerEvent: {}
+[4.163071] (-) TimerEvent: {}
+[4.264272] (-) TimerEvent: {}
+[4.366598] (-) TimerEvent: {}
+[4.468662] (-) TimerEvent: {}
+[4.569438] (-) TimerEvent: {}
+[4.670349] (-) TimerEvent: {}
+[4.771551] (-) TimerEvent: {}
+[4.872633] (-) TimerEvent: {}
+[4.973807] (-) TimerEvent: {}
+[5.074744] (-) TimerEvent: {}
+[5.175340] (-) TimerEvent: {}
+[5.276196] (-) TimerEvent: {}
+[5.376712] (-) TimerEvent: {}
+[5.477499] (-) TimerEvent: {}
+[5.579068] (-) TimerEvent: {}
+[5.679666] (-) TimerEvent: {}
+[5.780779] (-) TimerEvent: {}
+[5.882390] (-) TimerEvent: {}
+[5.983242] (-) TimerEvent: {}
+[6.084538] (-) TimerEvent: {}
+[6.186379] (-) TimerEvent: {}
+[6.285488] (mobile_bot) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', '../../build/mobile_bot', 'build', '--build-base', '/home/jakub/ros2_ws/build/mobile_bot/build', 'install', '--record', '/home/jakub/ros2_ws/build/mobile_bot/install.log', '--install-scripts', '$base/lib/mobile_bot', '--single-version-externally-managed'], 'cwd': '/home/jakub/ros2_ws/src/mobile_bot', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'LANGUAGE': 'pl:en', 'USER': 'jakub', 'LC_TIME': 'pl_PL.UTF-8', 'SSH_AGENT_PID': '1859', 'XDG_SESSION_TYPE': 'x11', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib', 'HOME': '/home/jakub', 'DESKTOP_SESSION': 'ubuntu', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'LC_MONETARY': 'pl_PL.UTF-8', 'MANAGERPID': '1104', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'IM_CONFIG_PHASE': '1', 'COLCON_PREFIX_PATH': '/home/jakub/ros2_ws/install', 'ROS_DISTRO': 'foxy', 'LOGNAME': 'jakub', 'JOURNAL_STREAM': '8:46498', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'jakub', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'ROS_LOCALHOST_ONLY': '0', 'WINDOWPATH': '2', 'PATH': '/opt/ros/foxy/bin:/home/jakub/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', 'SESSION_MANAGER': 'local/jakub-G3-3579:@/tmp/.ICE-unix/1899,unix/jakub-G3-3579:/tmp/.ICE-unix/1899', 'INVOCATION_ID': '1c4418e162274387b7404b0972930eb1', 'PAPERSIZE': 'a4', 'XDG_MENU_PREFIX': 'gnome-', 'LC_ADDRESS': 'pl_PL.UTF-8', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/3cfcc8ed_206d_4b54_a823_507f081e45c7', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'LANG': 'pl_PL.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'LC_TELEPHONE': 'pl_PL.UTF-8', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/gdm/Xauthority', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'GNOME_TERMINAL_SERVICE': ':1.130', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'AMENT_PREFIX_PATH': '/home/jakub/ros2_ws/install/mobile_bot:/opt/ros/foxy', 'SHELL': '/bin/bash', 'LC_NAME': 'pl_PL.UTF-8', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'LC_MEASUREMENT': 'pl_PL.UTF-8', 'GPG_AGENT_INFO': '/run/user/1000/gnupg/S.gpg-agent:0:1', 'LC_IDENTIFICATION': 'pl_PL.UTF-8', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/jakub/ros2_ws/build/mobile_bot', 'LC_ALL': 'en_US.UTF-8', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/jakub/ros2_ws/build/mobile_bot/prefix_override:/home/jakub/ros2_ws/install/mobile_bot/lib/python3.8/site-packages:/home/jakub/ros2_ws/install/mobile_bot/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages', 'LC_NUMERIC': 'pl_PL.UTF-8', 'LC_PAPER': 'pl_PL.UTF-8', 'COLCON': '1', 'VTE_VERSION': '6003'}, 'shell': False}
+[6.307135] (-) TimerEvent: {}
+[6.408935] (-) TimerEvent: {}
+[6.509585] (-) TimerEvent: {}
+[6.610164] (-) TimerEvent: {}
+[6.710967] (-) TimerEvent: {}
+[6.812243] (-) TimerEvent: {}
+[6.913117] (-) TimerEvent: {}
+[7.014514] (-) TimerEvent: {}
+[7.115287] (-) TimerEvent: {}
+[7.216009] (-) TimerEvent: {}
+[7.317003] (-) TimerEvent: {}
+[7.418343] (-) TimerEvent: {}
+[7.519171] (-) TimerEvent: {}
+[7.620630] (-) TimerEvent: {}
+[7.721286] (-) TimerEvent: {}
+[7.821887] (-) TimerEvent: {}
+[7.923073] (-) TimerEvent: {}
+[7.955485] (mobile_bot) StderrLine: {'line': b"/home/jakub/.local/lib/python3.8/site-packages/setuptools/dist.py:770: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead\n"}
+[7.956066] (mobile_bot) StderrLine: {'line': b'  warnings.warn(\n'}
+[8.023216] (-) TimerEvent: {}
+[8.124466] (-) TimerEvent: {}
+[8.226606] (-) TimerEvent: {}
+[8.329023] (-) TimerEvent: {}
+[8.430599] (-) TimerEvent: {}
+[8.483636] (mobile_bot) StdoutLine: {'line': b'running egg_info\n'}
+[8.530706] (-) TimerEvent: {}
+[8.584811] (mobile_bot) StdoutLine: {'line': b'writing ../../build/mobile_bot/mobile_bot.egg-info/PKG-INFO\n'}
+[8.587697] (mobile_bot) StdoutLine: {'line': b'writing dependency_links to ../../build/mobile_bot/mobile_bot.egg-info/dependency_links.txt\n'}
+[8.589288] (mobile_bot) StdoutLine: {'line': b'writing entry points to ../../build/mobile_bot/mobile_bot.egg-info/entry_points.txt\n'}
+[8.590186] (mobile_bot) StdoutLine: {'line': b'writing requirements to ../../build/mobile_bot/mobile_bot.egg-info/requires.txt\n'}
+[8.590906] (mobile_bot) StdoutLine: {'line': b'writing top-level names to ../../build/mobile_bot/mobile_bot.egg-info/top_level.txt\n'}
+[8.630918] (-) TimerEvent: {}
+[8.732557] (-) TimerEvent: {}
+[8.744567] (mobile_bot) StdoutLine: {'line': b"reading manifest file '../../build/mobile_bot/mobile_bot.egg-info/SOURCES.txt'\n"}
+[8.751342] (mobile_bot) StdoutLine: {'line': b"writing manifest file '../../build/mobile_bot/mobile_bot.egg-info/SOURCES.txt'\n"}
+[8.753032] (mobile_bot) StdoutLine: {'line': b'running build\n'}
+[8.754781] (mobile_bot) StdoutLine: {'line': b'running build_py\n'}
+[8.758841] (mobile_bot) StdoutLine: {'line': b'copying mobile_bot/tflite_test.py -> /home/jakub/ros2_ws/build/mobile_bot/build/lib/mobile_bot\n'}
+[8.759977] (mobile_bot) StdoutLine: {'line': b'copying mobile_bot/camera_sub.py -> /home/jakub/ros2_ws/build/mobile_bot/build/lib/mobile_bot\n'}
+[8.762304] (mobile_bot) StdoutLine: {'line': b'running install\n'}
+[8.763274] (mobile_bot) StderrLine: {'line': b'/home/jakub/.local/lib/python3.8/site-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.\n'}
+[8.763666] (mobile_bot) StderrLine: {'line': b'  warnings.warn(\n'}
+[8.787815] (mobile_bot) StdoutLine: {'line': b'running install_lib\n'}
+[8.832916] (-) TimerEvent: {}
+[8.874848] (mobile_bot) StdoutLine: {'line': b'copying /home/jakub/ros2_ws/build/mobile_bot/build/lib/mobile_bot/tflite_test.py -> /home/jakub/ros2_ws/install/mobile_bot/lib/python3.8/site-packages/mobile_bot\n'}
+[8.875352] (mobile_bot) StdoutLine: {'line': b'copying /home/jakub/ros2_ws/build/mobile_bot/build/lib/mobile_bot/camera_sub.py -> /home/jakub/ros2_ws/install/mobile_bot/lib/python3.8/site-packages/mobile_bot\n'}
+[8.877414] (mobile_bot) StdoutLine: {'line': b'byte-compiling /home/jakub/ros2_ws/install/mobile_bot/lib/python3.8/site-packages/mobile_bot/tflite_test.py to tflite_test.cpython-38.pyc\n'}
+[8.879121] (mobile_bot) StdoutLine: {'line': b'byte-compiling /home/jakub/ros2_ws/install/mobile_bot/lib/python3.8/site-packages/mobile_bot/camera_sub.py to camera_sub.cpython-38.pyc\n'}
+[8.884801] (mobile_bot) StdoutLine: {'line': b'running install_data\n'}
+[8.933118] (-) TimerEvent: {}
+[8.960245] (mobile_bot) StdoutLine: {'line': b'running install_egg_info\n'}
+[9.033540] (-) TimerEvent: {}
+[9.039099] (mobile_bot) StdoutLine: {'line': b"removing '/home/jakub/ros2_ws/install/mobile_bot/lib/python3.8/site-packages/mobile_bot-0.0.0-py3.8.egg-info' (and everything under it)\n"}
+[9.040281] (mobile_bot) StdoutLine: {'line': b'Copying ../../build/mobile_bot/mobile_bot.egg-info to /home/jakub/ros2_ws/install/mobile_bot/lib/python3.8/site-packages/mobile_bot-0.0.0-py3.8.egg-info\n'}
+[9.047533] (mobile_bot) StdoutLine: {'line': b'running install_scripts\n'}
+[9.133825] (-) TimerEvent: {}
+[9.235021] (-) TimerEvent: {}
+[9.335892] (-) TimerEvent: {}
+[9.436030] (mobile_bot) StdoutLine: {'line': b'Installing camera_img script to /home/jakub/ros2_ws/install/mobile_bot/lib/mobile_bot\n'}
+[9.437481] (-) TimerEvent: {}
+[9.439489] (mobile_bot) StdoutLine: {'line': b'Installing lidar_scan script to /home/jakub/ros2_ws/install/mobile_bot/lib/mobile_bot\n'}
+[9.441589] (mobile_bot) StdoutLine: {'line': b'Installing velocity script to /home/jakub/ros2_ws/install/mobile_bot/lib/mobile_bot\n'}
+[9.448285] (mobile_bot) StdoutLine: {'line': b"writing list of installed files to '/home/jakub/ros2_ws/build/mobile_bot/install.log'\n"}
+[9.537841] (-) TimerEvent: {}
+[9.638898] (-) TimerEvent: {}
+[9.697104] (mobile_bot) CommandEnded: {'returncode': 0}
+[9.739277] (-) TimerEvent: {}
+[9.806351] (mobile_bot) JobEnded: {'identifier': 'mobile_bot', 'rc': 0}
+[9.809095] (-) EventReactorShutdown: {}

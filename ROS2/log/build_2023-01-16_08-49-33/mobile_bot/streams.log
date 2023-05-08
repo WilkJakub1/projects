@@ -1,0 +1,33 @@
+[6.301s] Invoking command in '/home/jakub/ros2_ws/src/mobile_bot': PYTHONPATH=/home/jakub/ros2_ws/build/mobile_bot/prefix_override:/home/jakub/ros2_ws/install/mobile_bot/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mobile_bot build --build-base /home/jakub/ros2_ws/build/mobile_bot/build install --record /home/jakub/ros2_ws/build/mobile_bot/install.log --install-scripts $base/lib/mobile_bot --single-version-externally-managed
+[7.952s] /home/jakub/.local/lib/python3.8/site-packages/setuptools/dist.py:770: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[7.953s]   warnings.warn(
+[8.480s] running egg_info
+[8.582s] writing ../../build/mobile_bot/mobile_bot.egg-info/PKG-INFO
+[8.585s] writing dependency_links to ../../build/mobile_bot/mobile_bot.egg-info/dependency_links.txt
+[8.586s] writing entry points to ../../build/mobile_bot/mobile_bot.egg-info/entry_points.txt
+[8.587s] writing requirements to ../../build/mobile_bot/mobile_bot.egg-info/requires.txt
+[8.587s] writing top-level names to ../../build/mobile_bot/mobile_bot.egg-info/top_level.txt
+[8.741s] reading manifest file '../../build/mobile_bot/mobile_bot.egg-info/SOURCES.txt'
+[8.749s] writing manifest file '../../build/mobile_bot/mobile_bot.egg-info/SOURCES.txt'
+[8.750s] running build
+[8.752s] running build_py
+[8.756s] copying mobile_bot/tflite_test.py -> /home/jakub/ros2_ws/build/mobile_bot/build/lib/mobile_bot
+[8.757s] copying mobile_bot/camera_sub.py -> /home/jakub/ros2_ws/build/mobile_bot/build/lib/mobile_bot
+[8.759s] running install
+[8.760s] /home/jakub/.local/lib/python3.8/site-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[8.760s]   warnings.warn(
+[8.785s] running install_lib
+[8.871s] copying /home/jakub/ros2_ws/build/mobile_bot/build/lib/mobile_bot/tflite_test.py -> /home/jakub/ros2_ws/install/mobile_bot/lib/python3.8/site-packages/mobile_bot
+[8.872s] copying /home/jakub/ros2_ws/build/mobile_bot/build/lib/mobile_bot/camera_sub.py -> /home/jakub/ros2_ws/install/mobile_bot/lib/python3.8/site-packages/mobile_bot
+[8.874s] byte-compiling /home/jakub/ros2_ws/install/mobile_bot/lib/python3.8/site-packages/mobile_bot/tflite_test.py to tflite_test.cpython-38.pyc
+[8.876s] byte-compiling /home/jakub/ros2_ws/install/mobile_bot/lib/python3.8/site-packages/mobile_bot/camera_sub.py to camera_sub.cpython-38.pyc
+[8.881s] running install_data
+[8.957s] running install_egg_info
+[9.036s] removing '/home/jakub/ros2_ws/install/mobile_bot/lib/python3.8/site-packages/mobile_bot-0.0.0-py3.8.egg-info' (and everything under it)
+[9.037s] Copying ../../build/mobile_bot/mobile_bot.egg-info to /home/jakub/ros2_ws/install/mobile_bot/lib/python3.8/site-packages/mobile_bot-0.0.0-py3.8.egg-info
+[9.045s] running install_scripts
+[9.433s] Installing camera_img script to /home/jakub/ros2_ws/install/mobile_bot/lib/mobile_bot
+[9.437s] Installing lidar_scan script to /home/jakub/ros2_ws/install/mobile_bot/lib/mobile_bot
+[9.439s] Installing velocity script to /home/jakub/ros2_ws/install/mobile_bot/lib/mobile_bot
+[9.445s] writing list of installed files to '/home/jakub/ros2_ws/build/mobile_bot/install.log'
+[9.694s] Invoked command in '/home/jakub/ros2_ws/src/mobile_bot' returned '0': PYTHONPATH=/home/jakub/ros2_ws/build/mobile_bot/prefix_override:/home/jakub/ros2_ws/install/mobile_bot/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mobile_bot build --build-base /home/jakub/ros2_ws/build/mobile_bot/build install --record /home/jakub/ros2_ws/build/mobile_bot/install.log --install-scripts $base/lib/mobile_bot --single-version-externally-managed

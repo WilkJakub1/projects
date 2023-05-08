@@ -1,0 +1,55 @@
+running egg_info
+writing ../../build/mobile_bot/mobile_bot.egg-info/PKG-INFO
+writing dependency_links to ../../build/mobile_bot/mobile_bot.egg-info/dependency_links.txt
+writing entry points to ../../build/mobile_bot/mobile_bot.egg-info/entry_points.txt
+writing requirements to ../../build/mobile_bot/mobile_bot.egg-info/requires.txt
+writing top-level names to ../../build/mobile_bot/mobile_bot.egg-info/top_level.txt
+reading manifest file '../../build/mobile_bot/mobile_bot.egg-info/SOURCES.txt'
+writing manifest file '../../build/mobile_bot/mobile_bot.egg-info/SOURCES.txt'
+running build
+running build_py
+copying mobile_bot/camera_sub.py -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build/lib/mobile_bot
+copying mobile_bot/person_follow.py -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build/lib/mobile_bot
+copying mobile_bot/tflite_test.py -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build/lib/mobile_bot
+copying mobile_bot/opencv_test.py -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build/lib/mobile_bot
+copying mobile_bot/detect.py -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build/lib/mobile_bot
+copying mobile_bot/myutils.py -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build/lib/mobile_bot
+copying mobile_bot/utils.py -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build/lib/mobile_bot
+copying mobile_bot/motor_pwm.py -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build/lib/mobile_bot
+copying mobile_bot/__init__.py -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build/lib/mobile_bot
+copying mobile_bot/lidar_vision.py -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build/lib/mobile_bot
+running install
+running install_lib
+copying /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build/lib/mobile_bot/camera_sub.py -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot
+copying /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build/lib/mobile_bot/person_follow.py -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot
+copying /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build/lib/mobile_bot/tflite_test.py -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot
+copying /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build/lib/mobile_bot/opencv_test.py -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot
+copying /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build/lib/mobile_bot/detect.py -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot
+copying /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build/lib/mobile_bot/myutils.py -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot
+copying /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build/lib/mobile_bot/utils.py -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot
+copying /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build/lib/mobile_bot/motor_pwm.py -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot
+copying /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build/lib/mobile_bot/__init__.py -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot
+copying /home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/build/lib/mobile_bot/lidar_vision.py -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot
+byte-compiling /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot/camera_sub.py to camera_sub.cpython-38.pyc
+byte-compiling /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot/person_follow.py to person_follow.cpython-38.pyc
+byte-compiling /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot/tflite_test.py to tflite_test.cpython-38.pyc
+byte-compiling /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot/opencv_test.py to opencv_test.cpython-38.pyc
+byte-compiling /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot/detect.py to detect.cpython-38.pyc
+byte-compiling /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot/myutils.py to myutils.cpython-38.pyc
+byte-compiling /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot/utils.py to utils.cpython-38.pyc
+byte-compiling /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot/motor_pwm.py to motor_pwm.cpython-38.pyc
+byte-compiling /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot/lidar_vision.py to lidar_vision.cpython-38.pyc
+running install_data
+copying resource/mobile_bot -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/share/ament_index/resource_index/packages
+copying package.xml -> /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/share/mobile_bot
+running install_egg_info
+removing '/home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot-0.0.0-py3.8.egg-info' (and everything under it)
+Copying ../../build/mobile_bot/mobile_bot.egg-info to /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/python3.8/site-packages/mobile_bot-0.0.0-py3.8.egg-info
+running install_scripts
+Installing camera_img script to /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/mobile_bot
+Installing detector script to /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/mobile_bot
+Installing lidar_scan script to /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/mobile_bot
+Installing person_follower script to /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/mobile_bot
+Installing velocity script to /home/ubuntu/ros2_git_ws/mobile_bot_vision/install/mobile_bot/lib/mobile_bot
+writing list of installed files to '/home/ubuntu/ros2_git_ws/mobile_bot_vision/build/mobile_bot/install.log'

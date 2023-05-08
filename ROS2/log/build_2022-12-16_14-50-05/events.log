@@ -1,0 +1,92 @@
+[0.000000] (-) TimerEvent: {}
+[0.000487] (mobile_bot) JobQueued: {'identifier': 'mobile_bot', 'dependencies': OrderedDict()}
+[0.005999] (mobile_bot) JobStarted: {'identifier': 'mobile_bot'}
+[0.100399] (-) TimerEvent: {}
+[0.203690] (-) TimerEvent: {}
+[0.307360] (-) TimerEvent: {}
+[0.409171] (-) TimerEvent: {}
+[0.511034] (-) TimerEvent: {}
+[0.613085] (-) TimerEvent: {}
+[0.715376] (-) TimerEvent: {}
+[0.817007] (-) TimerEvent: {}
+[0.917698] (-) TimerEvent: {}
+[1.018604] (-) TimerEvent: {}
+[1.120339] (-) TimerEvent: {}
+[1.220974] (-) TimerEvent: {}
+[1.321592] (-) TimerEvent: {}
+[1.423216] (-) TimerEvent: {}
+[1.529368] (-) TimerEvent: {}
+[1.640209] (-) TimerEvent: {}
+[1.742916] (-) TimerEvent: {}
+[1.844686] (-) TimerEvent: {}
+[1.946270] (-) TimerEvent: {}
+[2.047216] (-) TimerEvent: {}
+[2.147979] (-) TimerEvent: {}
+[2.248849] (-) TimerEvent: {}
+[2.350439] (-) TimerEvent: {}
+[2.451486] (-) TimerEvent: {}
+[2.552357] (-) TimerEvent: {}
+[2.653313] (-) TimerEvent: {}
+[2.754502] (-) TimerEvent: {}
+[2.856337] (-) TimerEvent: {}
+[2.958056] (-) TimerEvent: {}
+[3.059877] (-) TimerEvent: {}
+[3.160813] (-) TimerEvent: {}
+[3.262617] (-) TimerEvent: {}
+[3.364860] (-) TimerEvent: {}
+[3.466177] (-) TimerEvent: {}
+[3.567086] (-) TimerEvent: {}
+[3.668730] (-) TimerEvent: {}
+[3.770570] (-) TimerEvent: {}
+[3.872000] (-) TimerEvent: {}
+[3.972842] (-) TimerEvent: {}
+[4.073623] (-) TimerEvent: {}
+[4.142971] (mobile_bot) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', '../../build/mobile_bot', 'build', '--build-base', '/home/jakub/ros2_ws/build/mobile_bot/build', 'install', '--record', '/home/jakub/ros2_ws/build/mobile_bot/install.log', '--install-scripts', '$base/lib/mobile_bot', '--single-version-externally-managed'], 'cwd': '/home/jakub/ros2_ws/src/mobile_bot', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'LANGUAGE': 'pl:en', 'USER': 'jakub', 'LC_TIME': 'pl_PL.UTF-8', 'SSH_AGENT_PID': '1433', 'XDG_SESSION_TYPE': 'x11', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib', 'HOME': '/home/jakub', 'DESKTOP_SESSION': 'ubuntu', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'LC_MONETARY': 'pl_PL.UTF-8', 'MANAGERPID': '1128', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'IM_CONFIG_PHASE': '1', 'COLCON_PREFIX_PATH': '/home/jakub/ros2_ws/install', 'ROS_DISTRO': 'foxy', 'LOGNAME': 'jakub', 'JOURNAL_STREAM': '8:38671', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'jakub', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'ROS_LOCALHOST_ONLY': '0', 'WINDOWPATH': '2', 'PATH': '/opt/ros/foxy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', 'SESSION_MANAGER': 'local/jakub-G3-3579:@/tmp/.ICE-unix/1471,unix/jakub-G3-3579:/tmp/.ICE-unix/1471', 'INVOCATION_ID': 'a447eb15aa954c68a2b13fde1f6f8715', 'PAPERSIZE': 'a4', 'XDG_MENU_PREFIX': 'gnome-', 'LC_ADDRESS': 'pl_PL.UTF-8', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/a91060ec_7bf5_4397_89b7_145194d8e851', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'LANG': 'pl_PL.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'LC_TELEPHONE': 'pl_PL.UTF-8', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/gdm/Xauthority', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'GNOME_TERMINAL_SERVICE': ':1.106', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'AMENT_PREFIX_PATH': '/home/jakub/ros2_ws/install/mobile_bot:/opt/ros/foxy', 'SHELL': '/bin/bash', 'LC_NAME': 'pl_PL.UTF-8', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'LC_MEASUREMENT': 'pl_PL.UTF-8', 'GPG_AGENT_INFO': '/run/user/1000/gnupg/S.gpg-agent:0:1', 'LC_IDENTIFICATION': 'pl_PL.UTF-8', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/jakub/ros2_ws/build/mobile_bot', 'LC_ALL': 'en_US.UTF-8', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/jakub/ros2_ws/build/mobile_bot/prefix_override:/home/jakub/ros2_ws/install/mobile_bot/lib/python3.8/site-packages:/home/jakub/ros2_ws/install/mobile_bot/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages', 'LC_NUMERIC': 'pl_PL.UTF-8', 'LC_PAPER': 'pl_PL.UTF-8', 'COLCON': '1', 'VTE_VERSION': '6003'}, 'shell': False}
+[4.174293] (-) TimerEvent: {}
+[4.276591] (-) TimerEvent: {}
+[4.378089] (-) TimerEvent: {}
+[4.480830] (-) TimerEvent: {}
+[4.582499] (-) TimerEvent: {}
+[4.683153] (-) TimerEvent: {}
+[4.783985] (-) TimerEvent: {}
+[4.884659] (-) TimerEvent: {}
+[4.985667] (-) TimerEvent: {}
+[5.086686] (-) TimerEvent: {}
+[5.188370] (-) TimerEvent: {}
+[5.289940] (-) TimerEvent: {}
+[5.391990] (-) TimerEvent: {}
+[5.493679] (-) TimerEvent: {}
+[5.592130] (mobile_bot) StdoutLine: {'line': b'running egg_info\n'}
+[5.593207] (mobile_bot) StdoutLine: {'line': b'writing ../../build/mobile_bot/mobile_bot.egg-info/PKG-INFO\n'}
+[5.593682] (mobile_bot) StdoutLine: {'line': b'writing dependency_links to ../../build/mobile_bot/mobile_bot.egg-info/dependency_links.txt\n'}
+[5.593947] (-) TimerEvent: {}
+[5.594478] (mobile_bot) StdoutLine: {'line': b'writing entry points to ../../build/mobile_bot/mobile_bot.egg-info/entry_points.txt\n'}
+[5.597779] (mobile_bot) StdoutLine: {'line': b'writing requirements to ../../build/mobile_bot/mobile_bot.egg-info/requires.txt\n'}
+[5.598795] (mobile_bot) StdoutLine: {'line': b'writing top-level names to ../../build/mobile_bot/mobile_bot.egg-info/top_level.txt\n'}
+[5.694154] (-) TimerEvent: {}
+[5.794960] (-) TimerEvent: {}
+[5.837168] (mobile_bot) StdoutLine: {'line': b"reading manifest file '../../build/mobile_bot/mobile_bot.egg-info/SOURCES.txt'\n"}
+[5.844238] (mobile_bot) StdoutLine: {'line': b"writing manifest file '../../build/mobile_bot/mobile_bot.egg-info/SOURCES.txt'\n"}
+[5.846717] (mobile_bot) StdoutLine: {'line': b'running build\n'}
+[5.848847] (mobile_bot) StdoutLine: {'line': b'running build_py\n'}
+[5.850032] (mobile_bot) StdoutLine: {'line': b'copying mobile_bot/lidar_vision.py -> /home/jakub/ros2_ws/build/mobile_bot/build/lib/mobile_bot\n'}
+[5.851037] (mobile_bot) StdoutLine: {'line': b'running install\n'}
+[5.854388] (mobile_bot) StdoutLine: {'line': b'running install_lib\n'}
+[5.861576] (mobile_bot) StdoutLine: {'line': b'copying /home/jakub/ros2_ws/build/mobile_bot/build/lib/mobile_bot/lidar_vision.py -> /home/jakub/ros2_ws/install/mobile_bot/lib/python3.8/site-packages/mobile_bot\n'}
+[5.864514] (mobile_bot) StdoutLine: {'line': b'byte-compiling /home/jakub/ros2_ws/install/mobile_bot/lib/python3.8/site-packages/mobile_bot/lidar_vision.py to lidar_vision.cpython-38.pyc\n'}
+[5.876540] (mobile_bot) StdoutLine: {'line': b'running install_data\n'}
+[5.878908] (mobile_bot) StdoutLine: {'line': b'running install_egg_info\n'}
+[5.889339] (mobile_bot) StdoutLine: {'line': b"removing '/home/jakub/ros2_ws/install/mobile_bot/lib/python3.8/site-packages/mobile_bot-0.0.0-py3.8.egg-info' (and everything under it)\n"}
+[5.892015] (mobile_bot) StdoutLine: {'line': b'Copying ../../build/mobile_bot/mobile_bot.egg-info to /home/jakub/ros2_ws/install/mobile_bot/lib/python3.8/site-packages/mobile_bot-0.0.0-py3.8.egg-info\n'}
+[5.895196] (-) TimerEvent: {}
+[5.896553] (mobile_bot) StdoutLine: {'line': b'running install_scripts\n'}
+[5.995508] (-) TimerEvent: {}
+[5.997957] (mobile_bot) StdoutLine: {'line': b'Installing camera_img script to /home/jakub/ros2_ws/install/mobile_bot/lib/mobile_bot\n'}
+[5.998721] (mobile_bot) StdoutLine: {'line': b'Installing lidar_scan script to /home/jakub/ros2_ws/install/mobile_bot/lib/mobile_bot\n'}
+[5.999272] (mobile_bot) StdoutLine: {'line': b'Installing velocity script to /home/jakub/ros2_ws/install/mobile_bot/lib/mobile_bot\n'}
+[6.000225] (mobile_bot) StdoutLine: {'line': b"writing list of installed files to '/home/jakub/ros2_ws/build/mobile_bot/install.log'\n"}
+[6.095860] (-) TimerEvent: {}
+[6.142410] (mobile_bot) CommandEnded: {'returncode': 0}
+[6.196535] (-) TimerEvent: {}
+[6.281133] (mobile_bot) JobEnded: {'identifier': 'mobile_bot', 'rc': 0}
+[6.285160] (-) EventReactorShutdown: {}
