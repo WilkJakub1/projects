@@ -1,0 +1,57 @@
+﻿  Źródło.cpp
+D:\Projekt_cpp\gra\gra\Źródło.cpp(32,35): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(32,26): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(62,35): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(62,26): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(90,25): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(90,22): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(229,25): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(229,22): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(262,32): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(293,25): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(293,22): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(339,36): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(339,27): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(345,14): warning C4244: "-=": konwersja z "float" do "int", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(351,30): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(351,27): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(354,25): warning C4305: "+=": obcięcie z "double" do "float"
+D:\Projekt_cpp\gra\gra\Źródło.cpp(368,26): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(368,23): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(413,27): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(413,24): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(422,21): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(426,21): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(430,24): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(434,24): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(495,27): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(495,24): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(539,39): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(539,30): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(562,23): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(569,33): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(569,30): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(615,25): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(615,21): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(617,25): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(617,21): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(633,29): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(633,25): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(637,25): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(637,21): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(641,7): warning C4244: "-=": konwersja z "float" do "int", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(642,7): warning C4244: "-=": konwersja z "float" do "int", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(667,28): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(667,25): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(672,14): warning C4244: "-=": konwersja z "float" do "int", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(678,32): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(678,29): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(681,23): warning C4305: "+=": obcięcie z "double" do "float"
+D:\Projekt_cpp\gra\gra\Źródło.cpp(690,32): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(690,29): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(701,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+D:\Projekt_cpp\gra\gra\Źródło.cpp(704,12): warning C4101: "buf": lokalna zmienna, do której nie istnieje odwołanie
+D:\Projekt_cpp\gra\gra\Źródło.cpp(488): warning C4715: "Dragon::check_collision”: niewszystkie ścieżki kodu zwracają wartość
+D:\Projekt_cpp\gra\gra\Źródło.cpp(591): warning C4715: "Fireball::check_enemy_collision”: niewszystkie ścieżki kodu zwracają wartość
+D:\Projekt_cpp\gra\gra\Źródło.cpp(693): warning C4715: "Diamond::check_collision”: niewszystkie ścieżki kodu zwracają wartość
+  gra.vcxproj -> D:\Projekt_cpp\gra\x64\Debug\gra.exe
